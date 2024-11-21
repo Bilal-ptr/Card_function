@@ -1,0 +1,10 @@
+touch views/.gitkeep
+touch public/.gitkeep
+touch controllers/.gitkeep
+touch config/.gitkeep
+touch models/.gitkeep
+touch public/.gitkeep
+touch routes/.gitkeep
+touch utils/.gitkeep
+
+
